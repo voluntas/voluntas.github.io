@@ -1,5 +1,12 @@
 時雨堂関連は更新されていますが、技術系は古い記事が多いです。
 
+- ブログ https://medium.com/@voluntas
+- Twitter アカウント https://twitter.com/voluntas
+  - DM をオープンにしていますので、なにかある場合は DM ください
+  - メール認証必須していないと見えないようにしています
+- LINE はやっていません
+- Facebook は小中の同級生との連絡用です
+
 ### 時雨堂
 
 * [時雨堂コトハジメ](https://gist.github.com/voluntas/8183054)
