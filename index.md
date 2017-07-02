@@ -3,8 +3,6 @@
 * ブログ https://medium.com/@voluntas
 * Twitter アカウント https://twitter.com/voluntas
     * DM をオープンにしていますので、なにかある場合は DM ください
-* LINE はやっていません
-* Facebook は小中の同級生との連絡用です
 
 ### 時雨堂
 
