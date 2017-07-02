@@ -12,7 +12,7 @@
 * [評価制度の無い評価制度](https://gist.github.com/voluntas/4f90a626adae624d8c23)
 * [時雨道場](https://gist.github.com/voluntas/6831251)
 * [時雨堂と MQTT と WebRTC](https://gist.github.com/voluntas/b97d1544ee7205823f00)
-  * 古い
+   * 古い
 
 #### 時雨堂自社製品
 
@@ -25,14 +25,14 @@
 * [時雨堂 WebRTC SFU as a Service Anzu 開発ログ](https://gist.github.com/voluntas/f75d526173cb5d15a079)
 * [時雨堂 WebRTC Gateway Momo 開発ログ](https://gist.github.com/voluntas/abc85b9902920c5ce9c1)
 * [Lua言語用ソースコード静的解析ツール](https://gist.github.com/voluntas/8301665)
-  * 販売終了
-  * OSS として https://github.com/shiguredo/luli で公開されています
+    * 販売終了
+    * OSS として https://github.com/shiguredo/luli で公開されています
 * [時雨堂 MQTT ブローカー Akane 開発ログ](https://gist.github.com/voluntas/558fea1445253e6dc6c2)
-  * 販売終了
+    * 販売終了
 * [時雨堂 MQTT as a Service Sango 開発ログ](https://gist.github.com/voluntas/b5ae2c8e554dc1a70f0b)
-  * サービス終了
+    * サービス終了
 * [時雨堂 MQTT ゲートウェイ Fuji 開発ログ](https://gist.github.com/voluntas/23132cd3848af5b3ee1e)
-  * 開発終了
+    * 開発終了
 
 ### WebRTC
 
@@ -41,7 +41,7 @@
 * [仕事で WebRTC](https://gist.github.com/voluntas/379e48807635ed18ebdbcedd5f3beefa)
 * [WebRTC スタックを一から実装する場合読んでおくべき資料まとめ](https://gist.github.com/voluntas/193ab447d387532a659d3ede9ab7678f)
 * [Edge と WebRTC について](https://gist.github.com/voluntas/f174b402f91e63eb84368f929c2289bf)
-- [リアルタイム動画配信コトハジメ](https://gist.github.com/voluntas/076fee77f30a0ca7a9b9)
+* [リアルタイム動画配信コトハジメ](https://gist.github.com/voluntas/076fee77f30a0ca7a9b9)
 
 ### 発表資料
 
