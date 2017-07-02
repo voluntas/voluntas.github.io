@@ -1,0 +1,8 @@
+title: Twisted Mind
+description: 一日をむだにする方法はいくらでもある。しかし一日を取り戻す方法はひとつもない。
+google_analytics: UA-44233770-1
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
