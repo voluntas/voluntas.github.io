@@ -5,7 +5,7 @@
 * ブログ [https://medium.com/@voluntas](https://medium.com/@voluntas)
 * メール twisted.mind at voluntas.net
 
-### 時雨堂
+### [https://shiguredo.jp](株式会社時雨堂)
 
 * [時雨堂コトハジメ](https://gist.github.com/voluntas/8183054)
 * [時雨堂自社製品コトハジメ](https://gist.github.com/voluntas/c02523bbfb22f70387092ba44b0ad40d)
@@ -166,6 +166,6 @@
 
 ### Qiita
 
-ちょっとした Tips は Qiita に書いてました。
+ちょっとした Tips は Qiita に書いてました。今後 Qiita を更新することはありません。
 
 * [Qiita](http://qiita.com/voluntas)
