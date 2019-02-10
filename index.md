@@ -7,7 +7,7 @@
 * メール twisted.mind at voluntas.net
     * メールを送る場合は、件名に必ず「Gist から来ました」を入れてください
 
-### Medium オススメ記事
+### ブログ人気記事
 
 - [自社製品で食べていけるようになるまでやったこと – V – Medium](https://medium.com/@voluntas/%E8%87%AA%E7%A4%BE%E8%A3%BD%E5%93%81%E3%81%A7%E9%A3%9F%E3%81%B9%E3%81%A6%E3%81%84%E3%81%91%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%BE%E3%81%A7%E3%82%84%E3%81%A3%E3%81%9F%E3%81%93%E3%81%A8-c0b8204d2780)
 - [無償での情報搾取 – V – Medium](https://medium.com/@voluntas/%E7%84%A1%E5%84%9F%E3%81%A7%E3%81%AE%E6%83%85%E5%A0%B1%E6%90%BE%E5%8F%96-a2820d107233)
