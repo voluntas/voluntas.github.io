@@ -9,16 +9,18 @@
 
 ### ブログ人気記事
 
-- [自社製品で食べていけるようになるまでやったこと – V – Medium](https://medium.com/@voluntas/%E8%87%AA%E7%A4%BE%E8%A3%BD%E5%93%81%E3%81%A7%E9%A3%9F%E3%81%B9%E3%81%A6%E3%81%84%E3%81%91%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%BE%E3%81%A7%E3%82%84%E3%81%A3%E3%81%9F%E3%81%93%E3%81%A8-c0b8204d2780)
-- [無償での情報搾取 – V – Medium](https://medium.com/@voluntas/%E7%84%A1%E5%84%9F%E3%81%A7%E3%81%AE%E6%83%85%E5%A0%B1%E6%90%BE%E5%8F%96-a2820d107233)
-- [自分が働きたい会社にしない – V – Medium](https://medium.com/@voluntas/%E8%87%AA%E5%88%86%E3%81%8C%E5%83%8D%E3%81%8D%E3%81%9F%E3%81%84%E4%BC%9A%E7%A4%BE%E3%81%AB%E3%81%97%E3%81%AA%E3%81%84-6939aeeb928b)
-- [FGO を支える負荷試験ツール – shiguredo – Medium](https://medium.com/shiguredo/fgo-%E3%81%AB%E6%8E%A1%E7%94%A8%E3%81%95%E3%82%8C%E3%81%9F%E8%B2%A0%E8%8D%B7%E8%A9%A6%E9%A8%93%E3%83%84%E3%83%BC%E3%83%AB-2fa3de337e20)
+- [自社製品で食べていけるようになるまでやったこと](https://medium.com/@voluntas/%E8%87%AA%E7%A4%BE%E8%A3%BD%E5%93%81%E3%81%A7%E9%A3%9F%E3%81%B9%E3%81%A6%E3%81%84%E3%81%91%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%BE%E3%81%A7%E3%82%84%E3%81%A3%E3%81%9F%E3%81%93%E3%81%A8-c0b8204d2780)
+- [無償での情報搾取](https://medium.com/@voluntas/%E7%84%A1%E5%84%9F%E3%81%A7%E3%81%AE%E6%83%85%E5%A0%B1%E6%90%BE%E5%8F%96-a2820d107233)
+- [自分が働きたい会社にしない](https://medium.com/@voluntas/%E8%87%AA%E5%88%86%E3%81%8C%E5%83%8D%E3%81%8D%E3%81%9F%E3%81%84%E4%BC%9A%E7%A4%BE%E3%81%AB%E3%81%97%E3%81%AA%E3%81%84-6939aeeb928b)
+- [FGO を支える負荷試験ツール](https://medium.com/shiguredo/fgo-%E3%81%AB%E6%8E%A1%E7%94%A8%E3%81%95%E3%82%8C%E3%81%9F%E8%B2%A0%E8%8D%B7%E8%A9%A6%E9%A8%93%E3%83%84%E3%83%BC%E3%83%AB-2fa3de337e20)
 - [同時接続 700 万、秒間 2 万通という Nintendo Switch 向けプッシュ通知システム NPNS の資料を読んで](https://medium.com/@voluntas/%E5%90%8C%E6%99%82%E6%8E%A5%E7%B6%9A-700-%E4%B8%87-%E7%A7%92%E9%96%93-2-%E4%B8%87%E9%80%9A%E3%81%A8%E3%81%84%E3%81%86-nintendo-switch-%E5%90%91%E3%81%91%E3%83%97%E3%83%83%E3%82%B7%E3%83%A5%E9%80%9A%E7%9F%A5%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0-npns-%E3%81%AE%E8%B3%87%E6%96%99%E3%82%92%E8%AA%AD%E3%82%93%E3%81%A7-4ee6fc4936b4)
-- [コードを書き続ける – V – Medium](https://medium.com/@voluntas/%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E6%9B%B8%E3%81%8D%E7%B6%9A%E3%81%91%E3%82%8B-c6d4a749327)
-- [フルリモートワークを諦めた – V – Medium](https://medium.com/@voluntas/%E3%83%95%E3%83%AB%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%92%E8%AB%A6%E3%82%81%E3%81%9F-d03cafd3d2c0)
-- [経営者になってわかったこと – V – Medium](https://medium.com/@voluntas/%E7%B5%8C%E5%96%B6%E8%80%85%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%82%8F%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%93%E3%81%A8-186a9af94ec6)
+- [コードを書き続ける](https://medium.com/@voluntas/%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E6%9B%B8%E3%81%8D%E7%B6%9A%E3%81%91%E3%82%8B-c6d4a749327)
+- [フルリモートワークを諦めた](https://medium.com/@voluntas/%E3%83%95%E3%83%AB%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%92%E8%AB%A6%E3%82%81%E3%81%9F-d03cafd3d2c0)
+- [経営者になってわかったこと](https://medium.com/@voluntas/%E7%B5%8C%E5%96%B6%E8%80%85%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%82%8F%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%93%E3%81%A8-186a9af94ec6)
 
-### [https://shiguredo.jp](株式会社時雨堂)
+### 株式会社時雨堂
+
+https://shiguredo.jp
 
 * [時雨堂コトハジメ](https://gist.github.com/voluntas/8183054)
 * [時雨堂自社製品コトハジメ](https://gist.github.com/voluntas/c02523bbfb22f70387092ba44b0ad40d)
