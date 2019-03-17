@@ -31,6 +31,7 @@ https://shiguredo.jp
 * [時雨堂を支える開発方針](https://gist.github.com/voluntas/cb7158f9813f9d7fed34)
 * [時雨堂を支える製品戦略](https://gist.github.com/voluntas/a0d15830ef0ac55ed46e)
 * [時雨堂を支えるリモートワーク](https://gist.github.com/voluntas/56dec5d892a588c687c63bbbb1e0cbfa)
+* [時雨堂を支えるマネージメント](https://gist.github.com/voluntas/fa1a3c50ce988b5c187e5036419b145a)
 * [評価制度の無い評価制度](https://gist.github.com/voluntas/4f90a626adae624d8c23)
 * [固定時間労働 1 日 6 時間](https://gist.github.com/voluntas/85a6a7b5fcacbab72cd342a4056d8cfd)
 
