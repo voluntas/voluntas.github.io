@@ -45,24 +45,26 @@ https://shiguredo.jp
 
 * [時雨堂 WebRTC SFU Sora 開発ログ](https://gist.github.com/voluntas/e914aa245fc26f3133c2)
     - https://sora.shiguredo.jp/
-* [時雨堂 WebRTC SFU as a Service Anzu 開発ログ](https://gist.github.com/voluntas/f75d526173cb5d15a079)
-* [OpenSora プロジェクト](https://gist.github.com/voluntas/99bfcefc3b63f481941ae91584916a79)
 * [OpenMomo プロジェクト](https://gist.github.com/voluntas/51c67d0d8ce7af9f24655cee4d7dd253)
     - https://github.com/shiguredo/momo
 * [OpenAyame プロジェクト](https://gist.github.com/voluntas/90cc9686a11de2f1acca845c6278a824)
+    - https://github.com/shiguredo/ayame
+* [OpenSora プロジェクト](https://gist.github.com/voluntas/99bfcefc3b63f481941ae91584916a79)
 * [時雨堂 QUIC サーバ 開発ログ](https://gist.github.com/voluntas/7cca63e5ea8fa87942b9ab6d97490593)
-    * 公開予定なし
+    - 公開予定なし
 * [時雨堂 シナリオ負荷試験ツール Oribe 開発ログ](https://gist.github.com/voluntas/5c9e0f778e36c1e934e83611a94ffdfa)
-    * 公開予定なし
+    - 公開予定なし
 * [Lua言語用ソースコード静的解析ツール](https://gist.github.com/voluntas/8301665)
-    * 販売終了
-    * OSS として https://github.com/shiguredo/luli で公開されています
+    - 販売終了
+    - OSS として https://github.com/shiguredo/luli で公開されています
 * [時雨堂 MQTT ブローカー Akane 開発ログ](https://gist.github.com/voluntas/558fea1445253e6dc6c2)
-    * 販売終了
+    - 販売終了
 * [時雨堂 MQTT as a Service Sango 開発ログ](https://gist.github.com/voluntas/b5ae2c8e554dc1a70f0b)
-    * サービス終了
+    - サービス終了
 * [時雨堂 MQTT ゲートウェイ Fuji 開発ログ](https://gist.github.com/voluntas/23132cd3848af5b3ee1e)
-    * 開発終了
+    - 開発終了
+* [時雨堂 WebRTC SFU as a Service Anzu 開発ログ](https://gist.github.com/voluntas/f75d526173cb5d15a079)
+    - サービス終了
 
 ### QUIC
 
