@@ -45,30 +45,30 @@ https://shiguredo.jp
 #### 時雨堂製品開発ログ
 
 * [時雨堂 WebRTC SFU Sora 開発ログ](https://gist.github.com/voluntas/e914aa245fc26f3133c2)
-    - https://sora.shiguredo.jp/
+    - [https://sora.shiguredo.jp/](https://sora.shiguredo.jp/)
 * [OpenMomo プロジェクト](https://gist.github.com/voluntas/51c67d0d8ce7af9f24655cee4d7dd253)
-    - https://github.com/shiguredo/momo
-* [OpenAyame プロジェクト](https://gist.github.com/voluntas/90cc9686a11de2f1acca845c6278a824)
-    - https://github.com/shiguredo/ayame
+    - [https://github.com/shiguredo/momo](https://github.com/shiguredo/momo)
 * [WebRTC Signaling Server Ayame as a Service \(仮\)](https://gist.github.com/voluntas/396167bd197ba005ae5a9e8c5e60f7cd)
 * [OpenKomugi プロジェクト](https://gist.github.com/voluntas/cb34a27763a639c18bd571f212134ca7)
 * [OpenSora プロジェクト](https://gist.github.com/voluntas/99bfcefc3b63f481941ae91584916a79)
+    - プロジェクト停止中
 * [時雨堂 QUIC サーバ 開発ログ](https://gist.github.com/voluntas/7cca63e5ea8fa87942b9ab6d97490593)
     - 公開予定なし
 * [時雨堂 シナリオ負荷試験ツール Oribe 開発ログ](https://gist.github.com/voluntas/5c9e0f778e36c1e934e83611a94ffdfa)
     - 公開予定なし
-    
 
 #### OSS
 
-自社製品向けの SDK や React Native WebRTC ライブラリを OSS として公開しています。
+React Native WebRTC ライブラリ、WebRTC P2P 向けシグナリングサーバや自社製品向けの SDK を OSS として公開しています。
 
+- [OpenAyame プロジェクト](https://gist.github.com/voluntas/90cc9686a11de2f1acca845c6278a824)
+    - [https://github.com/OpenAyame/ayame](https://github.com/OpenAyame/ayame)
 - [shiguredo/react\-native\-webrtc\-kit: React Native 用 WebRTC ライブラリ](https://github.com/shiguredo/react-native-webrtc-kit)
 - [shiguredo/sora\-js\-sdk: WebRTC SFU Sora JavaScript SDK](https://github.com/shiguredo/sora-js-sdk)
 - [shiguredo/sora\-ios\-sdk: WebRTC SFU Sora iOS SDK](https://github.com/shiguredo/sora-ios-sdk)
 - [shiguredo/sora\-android\-sdk: WebRTC SFU Sora Android SDK](https://github.com/shiguredo/sora-android-sdk)
 - [shiguredo/sora\-webrtc\-build: WebRTC Build Tool for iOS/Android](https://github.com/shiguredo/sora-webrtc-build)    
-    
+
 ##### 販売/公開終了製品
 
 * [Lua言語用ソースコード静的解析ツール](https://gist.github.com/voluntas/8301665)
