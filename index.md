@@ -35,34 +35,40 @@ https://shiguredo.jp
 * [評価制度の無い評価制度](https://gist.github.com/voluntas/4f90a626adae624d8c23)
 * [固定時間労働 1 日 6 時間](https://gist.github.com/voluntas/85a6a7b5fcacbab72cd342a4056d8cfd)
 
-
-#### 時雨堂自社製品
+#### 時雨堂自社製品資料
 
 * [WebRTC SFU Sora 検討資料](https://gist.github.com/voluntas/171ac9ee2ea6377586876602a41decff)
 * [WebRTC SFU Sora 紹介](https://gist.github.com/voluntas/5f3cf1049ee2710401e8bc3ecde4613e)
 * [WebRTC SFU Sora / DataChannel コトハジメ](https://gist.github.com/voluntas/80bd7ed7f483ee4c5b3673369f6ed9bd)
+* [WebRTC Signaling Server Ayame as a Service \(仮\)](https://gist.github.com/voluntas/396167bd197ba005ae5a9e8c5e60f7cd)
 
 #### 時雨堂製品開発ログ
 
 * [時雨堂 WebRTC SFU Sora 開発ログ](https://gist.github.com/voluntas/e914aa245fc26f3133c2)
-    - [https://sora.shiguredo.jp/](https://sora.shiguredo.jp/)
-* [OpenMomo プロジェクト](https://gist.github.com/voluntas/51c67d0d8ce7af9f24655cee4d7dd253)
-    - [https://github.com/shiguredo/momo](https://github.com/shiguredo/momo)
-* [WebRTC Signaling Server Ayame as a Service \(仮\)](https://gist.github.com/voluntas/396167bd197ba005ae5a9e8c5e60f7cd)
-* [OpenKomugi プロジェクト](https://gist.github.com/voluntas/cb34a27763a639c18bd571f212134ca7)
-* [OpenSora プロジェクト](https://gist.github.com/voluntas/99bfcefc3b63f481941ae91584916a79)
-    - プロジェクト停止中
+    - [WebRTC SFU Sora](https://sora.shiguredo.jp/)
 * [時雨堂 QUIC サーバ 開発ログ](https://gist.github.com/voluntas/7cca63e5ea8fa87942b9ab6d97490593)
     - 公開予定なし
 * [時雨堂 シナリオ負荷試験ツール Oribe 開発ログ](https://gist.github.com/voluntas/5c9e0f778e36c1e934e83611a94ffdfa)
     - 公開予定なし
 
+#### プロジェクト
+
+時雨堂が開発しオープンソースとして公開、または無料のサービスとして提供するプロジェクトです。
+
+* [OpenMomo プロジェクト](https://gist.github.com/voluntas/51c67d0d8ce7af9f24655cee4d7dd253)
+    - [shiguredo/momo: WebRTC Native Client Momo](https://github.com/shiguredo/momo)
+* [OpenKomugi プロジェクト](https://gist.github.com/voluntas/cb34a27763a639c18bd571f212134ca7)
+* [OpenAyame プロジェクト](https://gist.github.com/voluntas/90cc9686a11de2f1acca845c6278a824)
+    - [OpenAyame/ayame: WebRTC Signaling Server Ayame](https://github.com/OpenAyame/ayame)
+    - [OpenAyame/ayame\-web\-sdk: Web SDK for WebRTC Signaling Server Ayame](https://github.com/OpenAyame/ayame-web-sdk)
+    - [OpenAyame/ayame\-react\-sample: Ayame React サンプル](https://github.com/OpenAyame/ayame-react-sample)
+* [OpenSora プロジェクト](https://gist.github.com/voluntas/99bfcefc3b63f481941ae91584916a79)
+    - プロジェクト停止中
+
 #### OSS
 
-React Native WebRTC ライブラリ、WebRTC P2P 向けシグナリングサーバや自社製品向けの SDK を OSS として公開しています。
+React Native WebRTC ライブラリや自社製品向けの SDK などを OSS として公開しています。
 
-- [OpenAyame プロジェクト](https://gist.github.com/voluntas/90cc9686a11de2f1acca845c6278a824)
-    - [https://github.com/OpenAyame/ayame](https://github.com/OpenAyame/ayame)
 - [shiguredo/react\-native\-webrtc\-kit: React Native 用 WebRTC ライブラリ](https://github.com/shiguredo/react-native-webrtc-kit)
 - [shiguredo/sora\-js\-sdk: WebRTC SFU Sora JavaScript SDK](https://github.com/shiguredo/sora-js-sdk)
 - [shiguredo/sora\-ios\-sdk: WebRTC SFU Sora iOS SDK](https://github.com/shiguredo/sora-ios-sdk)
