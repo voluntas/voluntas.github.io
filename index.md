@@ -35,6 +35,7 @@ https://shiguredo.jp
 * [評価制度の無い評価制度](https://gist.github.com/voluntas/4f90a626adae624d8c23)
 * [固定時間労働 1 日 6 時間](https://gist.github.com/voluntas/85a6a7b5fcacbab72cd342a4056d8cfd)
 
+
 #### 時雨堂自社製品
 
 * [WebRTC SFU Sora 検討資料](https://gist.github.com/voluntas/171ac9ee2ea6377586876602a41decff)
@@ -49,13 +50,30 @@ https://shiguredo.jp
     - https://github.com/shiguredo/momo
 * [OpenAyame プロジェクト](https://gist.github.com/voluntas/90cc9686a11de2f1acca845c6278a824)
     - https://github.com/shiguredo/ayame
+* [WebRTC Signaling Server Ayame as a Service \(仮\)](https://gist.github.com/voluntas/396167bd197ba005ae5a9e8c5e60f7cd)
+* [OpenKomugi プロジェクト](https://gist.github.com/voluntas/cb34a27763a639c18bd571f212134ca7)
 * [OpenSora プロジェクト](https://gist.github.com/voluntas/99bfcefc3b63f481941ae91584916a79)
 * [時雨堂 QUIC サーバ 開発ログ](https://gist.github.com/voluntas/7cca63e5ea8fa87942b9ab6d97490593)
     - 公開予定なし
 * [時雨堂 シナリオ負荷試験ツール Oribe 開発ログ](https://gist.github.com/voluntas/5c9e0f778e36c1e934e83611a94ffdfa)
     - 公開予定なし
+    
+
+#### OSS
+
+自社製品向けの SDK や React Native WebRTC ライブラリを OSS として公開しています。
+
+- [shiguredo/react\-native\-webrtc\-kit: React Native 用 WebRTC ライブラリ](https://github.com/shiguredo/react-native-webrtc-kit)
+- [shiguredo/sora\-js\-sdk: WebRTC SFU Sora JavaScript SDK](https://github.com/shiguredo/sora-js-sdk)
+- [shiguredo/sora\-ios\-sdk: WebRTC SFU Sora iOS SDK](https://github.com/shiguredo/sora-ios-sdk)
+- [shiguredo/sora\-android\-sdk: WebRTC SFU Sora Android SDK](https://github.com/shiguredo/sora-android-sdk)
+- [shiguredo/sora\-webrtc\-build: WebRTC Build Tool for iOS/Android](https://github.com/shiguredo/sora-webrtc-build)    
+    
+##### 販売/公開終了製品
+
 * [Lua言語用ソースコード静的解析ツール](https://gist.github.com/voluntas/8301665)
     - 販売終了
+    - 開発終了
     - OSS として https://github.com/shiguredo/luli で公開されています
 * [時雨堂 MQTT ブローカー Akane 開発ログ](https://gist.github.com/voluntas/558fea1445253e6dc6c2)
     - 販売終了
@@ -94,6 +112,7 @@ https://shiguredo.jp
 
 ### 発表資料
 
+- [Erlang/OTP で WebRTC と QUIC](https://gist.github.com/voluntas/8d1f2100537db4f43bf412f9e2f24970)
 - [あたりまえのことをあたりまえにやる難しさ](https://gist.github.com/voluntas/08671d717290a6f63cddd95052a33a86)
 - [WebRTC SFU Sora ノススメ](https://gist.github.com/voluntas/0d6621d15947a24e710b0610093a5d20)
 - [なぜ Erlang/OTP を使い続けるのか](https://gist.github.com/voluntas/81ab2fe15372c9c67f3e0b12b3f534fa)
