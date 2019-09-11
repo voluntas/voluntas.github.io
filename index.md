@@ -40,7 +40,6 @@ https://shiguredo.jp
 * [WebRTC SFU Sora 検討資料](https://gist.github.com/voluntas/171ac9ee2ea6377586876602a41decff)
 * [WebRTC SFU Sora 紹介](https://gist.github.com/voluntas/5f3cf1049ee2710401e8bc3ecde4613e)
 * [WebRTC SFU Sora / DataChannel コトハジメ](https://gist.github.com/voluntas/80bd7ed7f483ee4c5b3673369f6ed9bd)
-* [WebRTC Signaling Server Ayame as a Service \(仮\)](https://gist.github.com/voluntas/396167bd197ba005ae5a9e8c5e60f7cd)
 
 #### 時雨堂製品開発ログ
 
@@ -50,20 +49,22 @@ https://shiguredo.jp
     - 公開予定なし
 * [時雨堂 シナリオ負荷試験ツール Oribe 開発ログ](https://gist.github.com/voluntas/5c9e0f778e36c1e934e83611a94ffdfa)
     - 公開予定なし
+* [WebRTC シグナリングサービス Ayame Lite 開発ログ](https://gist.github.com/voluntas/396167bd197ba005ae5a9e8c5e60f7cd)
+* [Windows 向け WebRTC Native Client Momo ビルドツール](https://gist.github.com/voluntas/7af1596557121796123ac7dee9e3f5a4)
 
-#### プロジェクト
+#### OSS プロジェクト
 
 時雨堂が開発しオープンソースとして公開、または無料のサービスとして提供するプロジェクトです。
 
 * [OpenMomo プロジェクト](https://gist.github.com/voluntas/51c67d0d8ce7af9f24655cee4d7dd253)
     - [shiguredo/momo: WebRTC Native Client Momo](https://github.com/shiguredo/momo)
-* [OpenKomugi プロジェクト](https://gist.github.com/voluntas/cb34a27763a639c18bd571f212134ca7)
 * [OpenAyame プロジェクト](https://gist.github.com/voluntas/90cc9686a11de2f1acca845c6278a824)
     - [OpenAyame/ayame: WebRTC Signaling Server Ayame](https://github.com/OpenAyame/ayame)
     - [OpenAyame/ayame\-web\-sdk: Web SDK for WebRTC Signaling Server Ayame](https://github.com/OpenAyame/ayame-web-sdk)
     - [OpenAyame/ayame\-react\-sample: Ayame React サンプル](https://github.com/OpenAyame/ayame-react-sample)
-* [OpenSora プロジェクト](https://gist.github.com/voluntas/99bfcefc3b63f481941ae91584916a79)
-    - プロジェクト停止中
+* [OpenKomugi プロジェクト](https://gist.github.com/voluntas/cb34a27763a639c18bd571f212134ca7)
+* [WebRTC SFU サービス Sora Lite](https://gist.github.com/voluntas/99bfcefc3b63f481941ae91584916a79)
+    - 検討中
 
 #### OSS
 
@@ -73,7 +74,8 @@ React Native WebRTC ライブラリや自社製品向けの SDK などを OSS �
 - [shiguredo/sora\-js\-sdk: WebRTC SFU Sora JavaScript SDK](https://github.com/shiguredo/sora-js-sdk)
 - [shiguredo/sora\-ios\-sdk: WebRTC SFU Sora iOS SDK](https://github.com/shiguredo/sora-ios-sdk)
 - [shiguredo/sora\-android\-sdk: WebRTC SFU Sora Android SDK](https://github.com/shiguredo/sora-android-sdk)
-- [shiguredo/sora\-webrtc\-build: WebRTC Build Tool for iOS/Android](https://github.com/shiguredo/sora-webrtc-build)    
+- [shiguredo/shiguredo\-webrtc\-build: WebRTC Build Tool for iOS/Android](https://github.com/shiguredo/shiguredo-webrtc-build)
+- [shiguredo/shiguredo\-webrtc\-windows: Windows 向け WebRTC ライブラリ用ビルドツール](https://github.com/shiguredo/shiguredo-webrtc-windows)
 
 ##### 販売/公開終了製品
 
@@ -168,6 +170,7 @@ React Native WebRTC ライブラリや自社製品向けの SDK などを OSS �
 
 ### コトハジメ
 
+* [負荷試験コトハジメ](https://gist.github.com/voluntas/00da5ea7a1a14d82adf2e718c7d8a145)
 * [PYNQ\-Z1 コトハジメ](https://gist.github.com/voluntas/ef64fc22a6fccce01cfb172298b05e4e)
 * [Vagrant コトハジメ](https://gist.github.com/voluntas/5525719)
 * [elasticsearch コトハジメ](https://gist.github.com/voluntas/5389474)
