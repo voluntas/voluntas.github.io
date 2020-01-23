@@ -4,6 +4,8 @@
     * DM をオープンにしていますので、なにかある場合は DM ください
 * ブログ [https://medium.com/@voluntas](https://medium.com/@voluntas)
     * ポエムだったり、技術だったり
+* dev.to [voluntas \- DEV Community 👩‍💻👨‍💻](https://dev.to/voluntas)
+    * ちょっとした技術的記事
 * メール twisted.mind at voluntas.net
     * メールを送る場合は、件名に必ず「Gist から来ました」を入れてください
 
@@ -227,11 +229,4 @@ React Native WebRTC ライブラリや自社製品向けの SDK などを OSS �
 * [時雨道場](https://gist.github.com/voluntas/6831251)
 * [時雨堂と MQTT と WebRTC](https://gist.github.com/voluntas/b97d1544ee7205823f00)
 * [Firefox の WebRTC で H264 を使う](https://gist.github.com/voluntas/a85b626f3a2702866711)
-
-### Qiita
-
-ちょっとした Tips は Qiita に書いてました。今後 Qiita を更新することはありません。
-
-* [Qiita](http://qiita.com/voluntas)
-
 
