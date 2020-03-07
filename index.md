@@ -7,6 +7,7 @@
 * dev.to [voluntas \- DEV Community 👩‍💻👨‍💻](https://dev.to/voluntas)
     * ちょっとした技術的記事
 * メール twisted.mind at voluntas.net
+    * このメールアドレスへの特定電子メールの送信を拒否いたします
     * メールを送る場合は、件名に必ず「Gist から来ました」を入れてください
 
 ### ブログ人気記事
