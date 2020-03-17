@@ -54,8 +54,6 @@ https://shiguredo.jp
     - 公開予定なし
 * [時雨堂 シナリオ負荷試験ツール Oribe 開発ログ](https://gist.github.com/voluntas/5c9e0f778e36c1e934e83611a94ffdfa)
     - 公開予定なし
-* [Windows 向け WebRTC Native Client Momo ビルドツール](https://gist.github.com/voluntas/7af1596557121796123ac7dee9e3f5a4)
-    - OSS で公開予定
 
 ### 時雨堂サービス開発ログ
 
