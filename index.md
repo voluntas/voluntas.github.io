@@ -112,7 +112,7 @@ React Native WebRTC ライブラリや自社製品向けの SDK などを OSS �
 
 ### WebRTC
 
-* `WebRTC SFU + E2EE コトハジメ <https://gist.github.com/voluntas/5fddd5fd92d87852807949143b557151>`_
+* [WebRTC SFU + E2EE コトハジメ](https://gist.github.com/voluntas/5fddd5fd92d87852807949143b557151)
 * [WebRTC Simulcast コトハジメ](https://gist.github.com/voluntas/dd3af733825c7ae64505a1fd1bd0d684)
 * [WebRTC の優位性](https://gist.github.com/voluntas/0715fc2ea27a49c2afd2ae80624ba3d2)
 * [WebRTC 超低遅延配信ノススメ](https://gist.github.com/voluntas/5ef396fe64c06f9563243e034c9eafd7)
