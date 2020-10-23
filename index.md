@@ -2,7 +2,7 @@
 
 * Twitter アカウント [https://twitter.com/voluntas](https://twitter.com/voluntas)
     * DM をオープンにしていますので、なにかある場合は DM ください
-* ブログ [https://medium.com/@voluntas](https://medium.com/@voluntas)
+* ブログ [https://voluntas.medium.com/](https://medium.com/@voluntas)
     * ポエムだったり、技術だったり
 * dev.to [voluntas \- DEV Community 👩‍💻👨‍💻](https://dev.to/voluntas)
     * ちょっとした技術的記事
