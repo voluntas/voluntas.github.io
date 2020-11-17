@@ -3,9 +3,9 @@
 * Twitter アカウント [https://twitter.com/voluntas](https://twitter.com/voluntas)
     * DM をオープンにしていますので、なにかある場合は DM ください
 * ブログ [https://voluntas.medium.com/](https://medium.com/@voluntas)
-    * ポエムだったり、技術だったり
-* dev.to [voluntas \- DEV Community 👩‍💻👨‍💻](https://dev.to/voluntas)
-    * ちょっとした技術的記事
+    * 経営系のポエムだったり、仕事系の技術だったり
+* Zenn [https://zenn.dev/voluntas](https://zenn.dev/voluntas)
+    * ちょっとした技術記事やちょっとしたポエム
 * メール twisted.mind at voluntas.net
     * このメールアドレスへの特定電子メールの送信を拒否いたします
     * メールを送る場合は、件名に必ず「Gist から来ました」を入れてください
