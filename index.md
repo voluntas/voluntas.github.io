@@ -12,9 +12,10 @@
 
 ### ブログ人気記事
 
+- [零細企業経営にはほとんどの意見が参考にならなかった話](https://voluntas.medium.com/%E9%9B%B6%E7%B4%B0%E4%BC%81%E6%A5%AD%E7%B5%8C%E5%96%B6%E3%81%AB%E3%81%AF%E3%81%BB%E3%81%A8%E3%82%93%E3%81%A9%E3%81%AE%E6%84%8F%E8%A6%8B%E3%81%8C%E5%8F%82%E8%80%83%E3%81%AB%E3%81%AA%E3%82%89%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E8%A9%B1-332f57d2082c)
 - [自社製品で食べていけるようになるまでやったこと](https://medium.com/@voluntas/%E8%87%AA%E7%A4%BE%E8%A3%BD%E5%93%81%E3%81%A7%E9%A3%9F%E3%81%B9%E3%81%A6%E3%81%84%E3%81%91%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%BE%E3%81%A7%E3%82%84%E3%81%A3%E3%81%9F%E3%81%93%E3%81%A8-c0b8204d2780)
 - [無償での情報搾取](https://medium.com/@voluntas/%E7%84%A1%E5%84%9F%E3%81%A7%E3%81%AE%E6%83%85%E5%A0%B1%E6%90%BE%E5%8F%96-a2820d107233)
-- [自分が働きたい会社にしない](https://medium.com/@voluntas/%E8%87%AA%E5%88%86%E3%81%8C%E5%83%8D%E3%81%8D%E3%81%9F%E3%81%84%E4%BC%9A%E7%A4%BE%E3%81%AB%E3%81%97%E3%81%AA%E3%81%84-6939aeeb928b)
+- [自分が働きたい会社にしない](https://voluntas.medium.com/%E8%87%AA%E5%88%86%E3%81%8C%E5%83%8D%E3%81%8D%E3%81%9F%E3%81%84%E4%BC%9A%E7%A4%BE%E3%81%AB%E3%81%97%E3%81%AA%E3%81%84-6939aeeb928b)
 - [FGO を支える負荷試験ツール](https://medium.com/shiguredo/fgo-%E3%81%AB%E6%8E%A1%E7%94%A8%E3%81%95%E3%82%8C%E3%81%9F%E8%B2%A0%E8%8D%B7%E8%A9%A6%E9%A8%93%E3%83%84%E3%83%BC%E3%83%AB-2fa3de337e20)
 - [同時接続 700 万、秒間 2 万通という Nintendo Switch 向けプッシュ通知システム NPNS の資料を読んで](https://medium.com/@voluntas/%E5%90%8C%E6%99%82%E6%8E%A5%E7%B6%9A-700-%E4%B8%87-%E7%A7%92%E9%96%93-2-%E4%B8%87%E9%80%9A%E3%81%A8%E3%81%84%E3%81%86-nintendo-switch-%E5%90%91%E3%81%91%E3%83%97%E3%83%83%E3%82%B7%E3%83%A5%E9%80%9A%E7%9F%A5%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0-npns-%E3%81%AE%E8%B3%87%E6%96%99%E3%82%92%E8%AA%AD%E3%82%93%E3%81%A7-4ee6fc4936b4)
 - [コードを書き続ける](https://medium.com/@voluntas/%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E6%9B%B8%E3%81%8D%E7%B6%9A%E3%81%91%E3%82%8B-c6d4a749327)
@@ -57,9 +58,10 @@ https://shiguredo.jp
 
 ### 時雨堂サービス開発ログ
 
-* [Ayame Plus 開発ログ](https://gist.github.com/voluntas/396167bd197ba005ae5a9e8c5e60f7cd)
-    - [Raspberry Pi 4 と Momo と Ayame Lite でお手軽 WebRTC 配信](https://gist.github.com/voluntas/35b8c9d4b2edf11493632e22d483d4a4)
-* [Sora Labo 開発ログ](https://gist.github.com/voluntas/99bfcefc3b63f481941ae91584916a79)
+* [時雨堂 Ayame Labo 開発ログ](https://gist.github.com/voluntas/396167bd197ba005ae5a9e8c5e60f7cd)
+    - Ayame 仕様完全互換の WebRTC P2P 向けシグナリングサービスです
+* [時雨堂 Sora Labo 開発ログ](https://gist.github.com/voluntas/99bfcefc3b63f481941ae91584916a79)
+    - Sora を検証できるサービスです
 
 ### プロジェクト
 
@@ -83,11 +85,10 @@ https://shiguredo.jp
 
 React Native WebRTC ライブラリや自社製品向けの SDK などを OSS として公開しています。
 
-- [React Native 用 WebRTC ライブラリ](https://github.com/react-native-webrtc-kit/react-native-webrtc-kit)
 - [WebRTC SFU Sora JavaScript SDK](https://github.com/shiguredo/sora-js-sdk)
 - [WebRTC SFU Sora iOS SDK](https://github.com/shiguredo/sora-ios-sdk)
 - [WebRTC SFU Sora Android SDK](https://github.com/shiguredo/sora-android-sdk)
-- [WebRTC Build Tool for iOS/Android](https://github.com/shiguredo/shiguredo-webrtc-build)
+- [React Native 用 WebRTC ライブラリ](https://github.com/react-native-webrtc-kit/react-native-webrtc-kit)
 - [様々な環境向けの WebRTC のビルドを行って、そのバイナリを提供しています](https://github.com/shiguredo-webrtc-build/webrtc-build)
 
 ### 販売/公開終了製品
@@ -241,4 +242,3 @@ React Native WebRTC ライブラリや自社製品向けの SDK などを OSS �
 * [時雨道場](https://gist.github.com/voluntas/6831251)
 * [時雨堂と MQTT と WebRTC](https://gist.github.com/voluntas/b97d1544ee7205823f00)
 * [Firefox の WebRTC で H264 を使う](https://gist.github.com/voluntas/a85b626f3a2702866711)
-
