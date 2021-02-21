@@ -183,17 +183,8 @@ React Native WebRTC ライブラリや自社製品向けの SDK などを OSS �
 ### コトハジメ
 
 * [負荷試験コトハジメ](https://gist.github.com/voluntas/00da5ea7a1a14d82adf2e718c7d8a145)
-* [PYNQ\-Z1 コトハジメ](https://gist.github.com/voluntas/ef64fc22a6fccce01cfb172298b05e4e)
-* [Vagrant コトハジメ](https://gist.github.com/voluntas/5525719)
-* [elasticsearch コトハジメ](https://gist.github.com/voluntas/5389474)
-* [MQTT コトハジメ](https://gist.github.com/voluntas/8238751)
-* [Chromebook flip コトハジメ](https://gist.github.com/voluntas/1f4a0309755ff9a4ff22)
-* [PyPy コトハジメ](https://gist.github.com/voluntas/a05f50242e56cad03415)
-* [OCaml コトハジメ](https://gist.github.com/voluntas/7bf4badea43d6120886d1c16341847b1)
-* [Grommet コトハジメ](https://gist.github.com/voluntas/38b33f23349e52cdd34ee301c285fae5)
 * [React コトハジメ](https://gist.github.com/voluntas/14303cbf0a1a5fb47ac58c2682bfa877)
 * [loadimpact/k6 で負荷試験コトハジメ](https://gist.github.com/voluntas/f5ca94cb0ebbcde4a4cea5f305c59fba)
-* [GAE/Go コトハジメ](https://gist.github.com/voluntas/892570de9c38e9b3a4170c5728ba72ed)
 * [TypeScript コトハジメ](https://gist.github.com/voluntas/107a764f1830fb8afd987dce5e0e88cd)
 
 ### ススメ
@@ -204,24 +195,15 @@ React Native WebRTC ライブラリや自社製品向けの SDK などを OSS �
 * [継続開発のススメ Erlang/OTP 編](https://gist.github.com/9ee65f0dfa9b7dd78fde)
 * [継続開発の罠](https://gist.github.com/4385569)
 * [レビューのススメ？](https://gist.github.com/73efe2f36ac1513c02a8)
-* [Trello のススメ](https://gist.github.com/voluntas/7177552)
+
 
 ### トラノマキ
 
 * [Django トラノマキ](https://gist.github.com/voluntas/6855579)
 * [Ansible トラノマキ](https://gist.github.com/voluntas/7844901)
 
-### ココロミ
-
-* [Webmachine を使ったホットスワップ](https://gist.github.com/voluntas/5002689)
-* [RESTfull API サーバの自動テスト案](https://gist.github.com/voluntas/5048580)
-* [Erlang/OTP で WebApp の開発に必要な N 個のこと](https://gist.github.com/voluntas/6505339)
-* [Cowboy と Django でセッション情報を共有する](https://gist.github.com/voluntas/dfaea3f93e13acdba212)
-- [クエリー処理を Lua で書け、処理結果を PubSub で共有できるキュー付きオンメモリデータベース](https://gist.github.com/voluntas/00fb5f5c13010232aea3)
-
 ### 雑記
 
-* [クエリー処理を Lua で書け、処理結果を PubSub で共有できるキュー付きオンメモリデータベース](https://gist.github.com/voluntas/00fb5f5c13010232aea3)
 * [Dropbox API v2 仕様まとめ](https://gist.github.com/voluntas/fe9394ce56ef4a305aa14168c09a3991)
 * [MQTT とはなんだったのか](https://gist.github.com/voluntas/e0a90f3e22316144ed3a)
 * [ミニ四駆走らせたいに参加してきた](https://gist.github.com/voluntas/ce31d3b40ab0610862e5)
@@ -239,3 +221,18 @@ React Native WebRTC ライブラリや自社製品向けの SDK などを OSS �
 * [時雨道場](https://gist.github.com/voluntas/6831251)
 * [時雨堂と MQTT と WebRTC](https://gist.github.com/voluntas/b97d1544ee7205823f00)
 * [Firefox の WebRTC で H264 を使う](https://gist.github.com/voluntas/a85b626f3a2702866711)
+* [PYNQ\-Z1 コトハジメ](https://gist.github.com/voluntas/ef64fc22a6fccce01cfb172298b05e4e)
+* [Vagrant コトハジメ](https://gist.github.com/voluntas/5525719)
+* [elasticsearch コトハジメ](https://gist.github.com/voluntas/5389474)
+* [MQTT コトハジメ](https://gist.github.com/voluntas/8238751)
+* [Chromebook flip コトハジメ](https://gist.github.com/voluntas/1f4a0309755ff9a4ff22)
+* [PyPy コトハジメ](https://gist.github.com/voluntas/a05f50242e56cad03415)
+* [OCaml コトハジメ](https://gist.github.com/voluntas/7bf4badea43d6120886d1c16341847b1)
+* [Grommet コトハジメ](https://gist.github.com/voluntas/38b33f23349e52cdd34ee301c285fae5)
+* [GAE/Go コトハジメ](https://gist.github.com/voluntas/892570de9c38e9b3a4170c5728ba72ed)
+* [クエリー処理を Lua で書け、処理結果を PubSub で共有できるキュー付きオンメモリデータベース](https://gist.github.com/voluntas/00fb5f5c13010232aea3)
+* [Webmachine を使ったホットスワップ](https://gist.github.com/voluntas/5002689)
+* [RESTfull API サーバの自動テスト案](https://gist.github.com/voluntas/5048580)
+* [Erlang/OTP で WebApp の開発に必要な N 個のこと](https://gist.github.com/voluntas/6505339)
+* [Cowboy と Django でセッション情報を共有する](https://gist.github.com/voluntas/dfaea3f93e13acdba212)
+* [Trello のススメ](https://gist.github.com/voluntas/7177552)
