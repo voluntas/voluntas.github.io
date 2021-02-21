@@ -69,17 +69,14 @@ https://shiguredo.jp
 
 ### OSS プロジェクト
 
-[時雨堂 OSS お手伝いしてくれてる人向け資料](https://gist.github.com/voluntas/feccaa88d6cbee69cd5294cf0c00f7f9)
-
 時雨堂が開発しオープンソースとして公開、または無料のサービスとして提供するプロジェクトです。
 
 * [OpenMomo プロジェクト](https://gist.github.com/voluntas/51c67d0d8ce7af9f24655cee4d7dd253)
     - [WebRTC Native Client Momo](https://github.com/shiguredo/momo)
 * [OpenAyame プロジェクト](https://gist.github.com/voluntas/90cc9686a11de2f1acca845c6278a824)
     - [WebRTC Signaling Server Ayame](https://github.com/OpenAyame/ayame)
-    - [Web SDK for WebRTC Signaling Server Ayame](https://github.com/OpenAyame/ayame-web-sdk)
+    - [Ayame Web SDK](https://github.com/OpenAyame/ayame-web-sdk)
     - [Ayame Web SDK サンプル](https://github.com/OpenAyame/ayame-web-sdk-samples)
-    - [Ayame React サンプル](https://github.com/OpenAyame/ayame-react-sample)
 
 ### OSS
 
