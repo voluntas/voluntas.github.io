@@ -41,7 +41,7 @@ https://shiguredo.jp
 * [固定時間労働 1 日 6 時間](https://gist.github.com/voluntas/85a6a7b5fcacbab72cd342a4056d8cfd)
 * [時雨堂を支える Slack 運用方法](https://gist.github.com/voluntas/451e64335a32f7c6398c194350f807ec)
 * [時雨堂を支える OSS の自社製品の方針](https://gist.github.com/voluntas/5c12261d12a85cc3ddaab43d030f35aa)
-
+* [時雨堂 バージョニング](https://gist.github.com/voluntas/477c795953adb8fc9619c2ae5cfda1ce)
 
 ### 時雨堂自社製品資料
 
@@ -56,6 +56,8 @@ https://shiguredo.jp
     - 公開予定なし
 * [時雨堂 シナリオ負荷試験ツール Oribe 開発ログ](https://gist.github.com/voluntas/5c9e0f778e36c1e934e83611a94ffdfa)
     - 公開予定なし
+* [時雨堂 Quality Management Tool Kohaku 開発ログ](https://gist.github.com/voluntas/f162f7f513ef83051e46dc405cad6a04)
+    - 開発中
 
 ### 時雨堂サービス開発ログ
 
@@ -121,6 +123,7 @@ React Native WebRTC ライブラリや自社製品向けの SDK などを OSS �
 
 ### WebRTC
 
+* [WebRTC で利用されいる TURN プロトコルの解説](https://gist.github.com/voluntas/a1d39c2b2a4392956ff69732dc493e39)
 * [WebRTC DataChannel コトハジメ](https://gist.github.com/voluntas/80bd7ed7f483ee4c5b3673369f6ed9bd)
 * [WebRTC SFU + E2EE コトハジメ](https://gist.github.com/voluntas/5fddd5fd92d87852807949143b557151)
 * [WebRTC Simulcast コトハジメ](https://gist.github.com/voluntas/dd3af733825c7ae64505a1fd1bd0d684)
