@@ -2,7 +2,7 @@
 
 * Twitter アカウント [https://twitter.com/voluntas](https://twitter.com/voluntas)
     * DM をオープンにしていますので、なにかある場合は DM ください
-    * 無償での情報搾取と判断したら反応しません
+    * 無償での情報搾取へは対応しません
 * ブログ [https://voluntas.medium.com/](https://medium.com/@voluntas)
     * 経営系のポエムだったり、仕事系の技術だったり
 * Zenn [https://zenn.dev/voluntas](https://zenn.dev/voluntas)
