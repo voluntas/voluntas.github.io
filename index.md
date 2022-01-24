@@ -84,10 +84,10 @@ https://shiguredo.jp
 
 ### OSS
 
-React Native WebRTC ライブラリや自社製品向けの SDK などを OSS として公開しています。
+自社製品向けの SDK などを OSS として公開しています。
 
-- [React Native 用 WebRTC ライブラリ](https://github.com/react-native-webrtc-kit/react-native-webrtc-kit)
 - [様々な環境向けの WebRTC のビルドを行って、そのバイナリを提供しています](https://github.com/shiguredo-webrtc-build/webrtc-build)
+- [shiguredo/cpp\-mp4](https://github.com/shiguredo/cpp-mp4)
 
 #### Sora SDK
 
@@ -100,7 +100,6 @@ React Native WebRTC ライブラリや自社製品向けの SDK などを OSS �
 - [shiguredo/zakuro: WebRTC Load Testing Tool Zakuro](https://github.com/shiguredo/zakuro)
 - [shiguredo/hisui: Recording Composition Tool Hisui](https://github.com/shiguredo/hisui)
 - [shiguredo/kohaku: Quality Management Tool Kohaku](https://github.com/shiguredo/kohaku)
-- [shiguredo/cpp\-mp4](https://github.com/shiguredo/cpp-mp4)
 
 ### 販売/公開終了製品
 
