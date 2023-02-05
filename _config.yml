@@ -4,5 +4,7 @@ google_analytics: UA-44233770-1
 show_downloads: true
 theme: jekyll-theme-minimal
 
+include: [".well-known"]
+
 gems:
   - jekyll-mentions
