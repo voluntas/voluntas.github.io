@@ -93,6 +93,8 @@ https://shiguredo.jp
 - [WebRTC SFU Sora iOS SDK](https://github.com/shiguredo/sora-ios-sdk)
 - [WebRTC SFU Sora Android SDK](https://github.com/shiguredo/sora-android-sdk)
 - [WebRTC SFU Sora Unity SDK](https://github.com/shiguredo/sora-unity-sdk)
+- [WebRTC SFU Sora C\+\+ SDK](https://github.com/shiguredo/sora-cpp-sdk)
+- [WebRTC SFU Sora Python SDK](https://github.com/shiguredo/sora-python-sdk)
 - [WebRTC SFU Sora Flutter SDK](https://github.com/shiguredo/sora-flutter-sdk)
 
 #### Sora Tool
@@ -100,6 +102,8 @@ https://shiguredo.jp
 - [shiguredo/zakuro: WebRTC Load Testing Tool Zakuro](https://github.com/shiguredo/zakuro)
 - [shiguredo/hisui: Recording Composition Tool Hisui](https://github.com/shiguredo/hisui)
 - [shiguredo/kohaku: Quality Management Tool Kohaku](https://github.com/shiguredo/kohaku)
+- [shiguredo/suzu: Audio Streaming Gateway Suzu](https://github.com/shiguredo/suzu)
+- [shiguredo/media\-processors: Media Processors](https://github.com/shiguredo/media-processors)
 
 ### 販売/公開終了製品
 
