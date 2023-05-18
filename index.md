@@ -58,7 +58,7 @@ https://shiguredo.jp
 - [時雨堂 シナリオ負荷試験ツール Oribe 開発ログ](https://gist.github.com/voluntas/5c9e0f778e36c1e934e83611a94ffdfa)
   - 公開予定なし
 - [時雨堂 WebRTC Stats Collector Kohaku 開発ログ](https://gist.github.com/voluntas/f162f7f513ef83051e46dc405cad6a04)
-  - [shiguredo/kohaku: WebRTC Stats Collector Kohaku](https://github.com/shiguredo/kohaku)開発中
+  - [shiguredo/kohaku: WebRTC Stats Collector Kohaku](https://github.com/shiguredo/kohaku)
 
 ### 時雨堂サービス開発ログ
 
