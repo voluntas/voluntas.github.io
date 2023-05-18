@@ -69,10 +69,6 @@ https://shiguredo.jp
 - [時雨堂 Ayame Labo 開発ログ](https://gist.github.com/voluntas/396167bd197ba005ae5a9e8c5e60f7cd)
   - Ayame 仕様完全互換の WebRTC P2P 向けシグナリングサービスです
 
-### プロジェクト
-
-- [Azuki プロジェクト](https://gist.github.com/voluntas/a9519de94f92102cc22b5f723d03dbd6)
-
 ### OSS プロジェクト
 
 時雨堂が開発しオープンソースとして公開、または無料のサービスとして提供するプロジェクトです。
