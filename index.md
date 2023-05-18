@@ -62,10 +62,10 @@ https://shiguredo.jp
 
 ### 時雨堂サービス開発ログ
 
-- [時雨堂 Ayame Labo 開発ログ](https://gist.github.com/voluntas/396167bd197ba005ae5a9e8c5e60f7cd)
-  - Ayame 仕様完全互換の WebRTC P2P 向けシグナリングサービスです
 - [時雨堂 Sora Labo 開発ログ](https://gist.github.com/voluntas/99bfcefc3b63f481941ae91584916a79)
   - Sora を検証できるサービスです
+- [時雨堂 Ayame Labo 開発ログ](https://gist.github.com/voluntas/396167bd197ba005ae5a9e8c5e60f7cd)
+  - Ayame 仕様完全互換の WebRTC P2P 向けシグナリングサービスです
 
 ### プロジェクト
 
