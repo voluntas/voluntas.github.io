@@ -92,7 +92,7 @@ https://shiguredo.jp
 - [WebRTC SFU Sora JavaScript SDK](https://github.com/shiguredo/sora-js-sdk)
 - [WebRTC SFU Sora iOS SDK](https://github.com/shiguredo/sora-ios-sdk)
 - [WebRTC SFU Sora Android SDK](https://github.com/shiguredo/sora-android-sdk)
-- [shiguredo/sora\-unity\-sdk: WebRTC SFU Sora Unity SDK](https://github.com/shiguredo/sora-unity-sdk)
+- [WebRTC SFU Sora Unity SDK](https://github.com/shiguredo/sora-unity-sdk)
 - [WebRTC SFU Sora Flutter SDK](https://github.com/shiguredo/sora-flutter-sdk)
 
 #### Sora Tool
