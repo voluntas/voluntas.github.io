@@ -85,7 +85,6 @@ https://shiguredo.jp
 自社製品向けの SDK などを OSS として公開しています。
 
 - [様々な環境向けの WebRTC のビルドを行って、そのバイナリを提供しています](https://github.com/shiguredo-webrtc-build/webrtc-build)
-- [shiguredo/cpp\-mp4](https://github.com/shiguredo/cpp-mp4)
 
 #### Sora SDK
 
@@ -95,14 +94,16 @@ https://shiguredo.jp
 - [WebRTC SFU Sora Unity SDK](https://github.com/shiguredo/sora-unity-sdk)
 - [WebRTC SFU Sora C\+\+ SDK](https://github.com/shiguredo/sora-cpp-sdk)
 - [WebRTC SFU Sora Python SDK](https://github.com/shiguredo/sora-python-sdk)
-- [WebRTC SFU Sora Flutter SDK](https://github.com/shiguredo/sora-flutter-sdk)
 
 #### Sora Tool
 
 - [shiguredo/zakuro: WebRTC Load Testing Tool Zakuro](https://github.com/shiguredo/zakuro)
 - [shiguredo/hisui: Recording Composition Tool Hisui](https://github.com/shiguredo/hisui)
+  - [shiguredo/cpp\-mp4](https://github.com/shiguredo/cpp-mp4)
 - [shiguredo/kohaku: Quality Management Tool Kohaku](https://github.com/shiguredo/kohaku)
 - [shiguredo/suzu: Audio Streaming Gateway Suzu](https://github.com/shiguredo/suzu)
+- [shiguredo/sora\-archive\-uploader: Sora Archive Uploader](https://github.com/shiguredo/sora-archive-uploader)
+- [shiguredo/sora\_exporter: Prometheus exporter for WebRTC SFU Sora metrics\.](https://github.com/shiguredo/sora_exporter/)
 - [shiguredo/media\-processors: Media Processors](https://github.com/shiguredo/media-processors)
 
 ### 販売/公開終了製品
@@ -119,6 +120,10 @@ https://shiguredo.jp
   - 開発終了
 - [時雨堂 WebRTC SFU as a Service Anzu 開発ログ](https://gist.github.com/voluntas/f75d526173cb5d15a079)
   - サービス終了
+- [react\-native\-webrtc\-kit/react\-native\-webrtc\-kit: React Native 用 WebRTC ライブラリ](https://github.com/react-native-webrtc-kit/react-native-webrtc-kit)
+  - 開発終了
+- [WebRTC SFU Sora Flutter SDK](https://github.com/shiguredo/sora-flutter-sdk)
+  - 開発終了
 
 ### QUIC
 
