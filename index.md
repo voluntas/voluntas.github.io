@@ -1,8 +1,9 @@
 時雨堂関連は更新されていますが、技術系は WebRTC 以外は古い記事が多いです。
 
-- Twitter アカウント [https://twitter.com/voluntas](https://twitter.com/voluntas)
-  - DM をオープンにしていますので、なにかある場合は DM ください
+- X アカウント [https://x.com/voluntas](https://x.com/voluntas)
+  - スパム対策で DM は認証アカウントのみ受け付けるようにしています
   - 無償での情報搾取へは対応しません
+- Bluesky アカウント [https://bsky.app/profile/voluntas.net](https://bsky.app/profile/voluntas.net)
 - ブログ [https://voluntas.medium.com/](https://medium.com/@voluntas)
   - 経営系のポエムだったり、仕事系の技術だったり
 - Zenn [https://zenn.dev/voluntas](https://zenn.dev/voluntas)
