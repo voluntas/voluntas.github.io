@@ -8,6 +8,8 @@
   - 経営系のポエムだったり、仕事系の技術だったり
 - Zenn [https://zenn.dev/voluntas](https://zenn.dev/voluntas)
   - ちょっとした技術記事やちょっとしたポエム
+- Signal voluntas.38
+  - メッセージを送る場合は、最初に「Gist から来ました」を送って下さい
 - メール twisted.mind at voluntas.net
   - このメールアドレスへの特定電子メールの送信を拒否いたします
   - メールを送る場合は、件名に必ず「Gist から来ました」を入れてください
