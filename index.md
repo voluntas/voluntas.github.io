@@ -36,7 +36,7 @@ https://shiguredo.jp
 - [時雨堂を支える環境](https://gist.github.com/voluntas/6333304)
 - [時雨堂を支える採用](https://gist.github.com/voluntas/9306271)
 - [時雨堂を支える食堂](https://gist.github.com/voluntas/565dce2e7fd803a61340)
-- [時雨堂を支える開発方針](https://gist.github.com/voluntas/cb7158f9813f9d7fed34)
+- <del>[時雨堂を支える開発方針](https://gist.github.com/voluntas/cb7158f9813f9d7fed34)</del>
 - [時雨堂を支える製品戦略](https://gist.github.com/voluntas/a0d15830ef0ac55ed46e)
 - [時雨堂を支えるビジネスモデル](https://gist.github.com/voluntas/d5945a252150f3cc5c2ce2aaa612369c)
 - [時雨堂を支えるリモートワーク](https://gist.github.com/voluntas/56dec5d892a588c687c63bbbb1e0cbfa)
