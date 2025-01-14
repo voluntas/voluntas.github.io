@@ -4,7 +4,7 @@
   - スパム対策で DM は認証アカウントのみ受け付けるようにしています
   - 無償での情報搾取へは対応しません
 - Bluesky アカウント [https://bsky.app/profile/voluntas.net](https://bsky.app/profile/voluntas.net)
-- ブログ [https://voluntas.medium.com/](https://medium.com/@voluntas)
+- ブログ [https://write.as/voluntas/](https://write.as/voluntas/]
   - 経営系のポエムだったり、仕事系の技術だったり
 - Zenn [https://zenn.dev/voluntas](https://zenn.dev/voluntas)
   - ちょっとした技術記事やちょっとしたポエム
