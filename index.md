@@ -55,11 +55,9 @@ https://shiguredo.jp
 - [時雨堂 WebRTC SFU Sora 開発ログ](https://gist.github.com/voluntas/e914aa245fc26f3133c2)
   - [WebRTC SFU Sora](https://sora.shiguredo.jp/)
 - [時雨堂 QUIC サーバ 開発ログ](https://gist.github.com/voluntas/7cca63e5ea8fa87942b9ab6d97490593)
-  - 公開予定なし
+  - Sora へ組み込み予定
 - [時雨堂 シナリオ負荷試験ツール Oribe 開発ログ](https://gist.github.com/voluntas/5c9e0f778e36c1e934e83611a94ffdfa)
   - 公開予定なし
-- [時雨堂 WebRTC Stats Collector Kohaku 開発ログ](https://gist.github.com/voluntas/f162f7f513ef83051e46dc405cad6a04)
-  - [shiguredo/kohaku: WebRTC Stats Collector Kohaku](https://github.com/shiguredo/kohaku)
 
 ### 時雨堂サービス開発ログ
 
@@ -68,7 +66,7 @@ https://shiguredo.jp
 - [時雨堂 Sora Labo 開発ログ](https://gist.github.com/voluntas/99bfcefc3b63f481941ae91584916a79)
   - Sora を検証できるサービスです
 - [時雨堂 Ayame Labo 開発ログ](https://gist.github.com/voluntas/396167bd197ba005ae5a9e8c5e60f7cd)
-  - Ayame 仕様完全互換の WebRTC P2P 向けシグナリングサービスです
+  - Ayame を利用した WebRTC P2P 向けシグナリングサービスです
 
 ### OSS プロジェクト
 
@@ -106,6 +104,15 @@ https://shiguredo.jp
 - [shiguredo/sora\-archive\-uploader: Sora Archive Uploader](https://github.com/shiguredo/sora-archive-uploader)
 - [shiguredo/sora\_exporter: Prometheus exporter for WebRTC SFU Sora metrics\.](https://github.com/shiguredo/sora_exporter/)
 - [shiguredo/media\-processors: Media Processors](https://github.com/shiguredo/media-processors)
+
+#### Python
+
+- [shiguredo/mp4\-py: Python bindings for mp4\-rust](https://github.com/shiguredo/mp4-py)
+- [shiguredo/libdatachannel\-py: Python bindings for libdatachannel](https://github.com/shiguredo/libdatachannel-py)
+- [shiguredo/libwebm\-py: Python bindings for libwebm](https://github.com/shiguredo/libwebm-py)
+- [shiguredo/blend2d\-py: Python bindings for Blend2D](https://github.com/shiguredo/blend2d-py)
+- [shiguredo/webcodecs\-py: WebCodecs API for Python](https://github.com/shiguredo/webcodecs-py)
+- [shiguredo/raw\-player: Raw audio/video player for Python](https://github.com/shiguredo/raw-player)
 
 ### 販売/公開終了製品
 
@@ -259,4 +266,5 @@ https://shiguredo.jp
 - [Erlang/OTP で WebApp の開発に必要な N 個のこと](https://gist.github.com/voluntas/6505339)
 - [Cowboy と Django でセッション情報を共有する](https://gist.github.com/voluntas/dfaea3f93e13acdba212)
 - [Trello のススメ](https://gist.github.com/voluntas/7177552)
+
 
