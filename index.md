@@ -5,10 +5,7 @@
   - 無償での情報搾取へは対応しません
 - Bluesky アカウント [https://bsky.app/profile/voluntas.net](https://bsky.app/profile/voluntas.net)
 - ブログ [https://voluntas.ghost.io/](https://voluntas.ghost.io/)
-  - 経営系のポエムだったり、仕事系の技術だったり
-  - 以前のブログ [https://voluntas.medium.com/](https://voluntas.medium.com/)
-- Zenn [https://zenn.dev/voluntas](https://zenn.dev/voluntas)
-  - ちょっとした技術記事やちょっとしたポエム
+  - 技術関連を書きます
 - Signal voluntas.38
   - メッセージを送る場合は、最初に「Gist から来ました」を送って下さい
 - メール voluntas at duck dot com
@@ -262,3 +259,4 @@ https://shiguredo.jp
 - [Erlang/OTP で WebApp の開発に必要な N 個のこと](https://gist.github.com/voluntas/6505339)
 - [Cowboy と Django でセッション情報を共有する](https://gist.github.com/voluntas/dfaea3f93e13acdba212)
 - [Trello のススメ](https://gist.github.com/voluntas/7177552)
+
